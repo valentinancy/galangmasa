@@ -1,0 +1,43 @@
+#container {width : 1020px; margin : 20px auto;
+	background : -moz-linear-gradient(center top, #FFDAB9 20%, #D2691E 100%);
+	padding : 30px;
+	padding-top : 80px;
+	overflow : hidden;
+}
+
+	
+#main-navigation ul {overflow : hidden; width : 100%; list-style : none;}
+#main-navigation li {float : left;}
+#main-navigation li a {background : #FAAC58; margin : 0 0 0 0; padding : 6px 30px; display : block; color :#000000; text-decoration : none;}
+#main-navigation li.current a {background : #F79F81; border: 6px solid #B40404; margin : 0 0 0 0;}
+#main-navigation2 li {background : #FFF;}
+#main-navigation2 h2 {background : #FF7F50; font-weight : normal; color : #333; font: 1.4em/1.0 georgia, times new roman, times, serif; margin:0.2em 0;}
+	
+#header1{
+	bottom : auto;
+	position : fixed;
+	top : 0;
+	z-index : 4000;
+	height : 80px;
+	background-image : url('../images/intan.jpg');
+	background-size : 1015px 130px;
+	width :1000px;
+	-webkit-box-shadow : #666 1px 1px 2px;
+	-moz-box-shadow : #666 1px 1px 2px;
+	box-shadow: #666 1px 1px 2px;
+	padding: 10px;
+}
+	
+.gambar{
+	border : 1px solid #999;
+	background-color : #848484;
+	margin : 0 0 0 0;
+	padding : 5px;
+}
+
+.gambar:hover{
+	background-color: #fff;
+}
+
+.gambar img{
+}
