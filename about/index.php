@@ -52,10 +52,18 @@
 					<center>
 						<h2 class="head-title">ABOUT</h2>
 						<hr class="botm-line">
-						<p>Terdapat 2 aktor yang bisa login yaitu administrator dan user.</p>
-						<p>Pengunjung yang ingin membagikan data event harus mendapatkan akun dengan melakukan sign up terlebih dahulu.</p>
-						<p>Jika pengunjung hanya ingin mendaftarkan diri pada acara yang dicantum, tidak perlu login.</p>
-						<br/>
+						<p>GalangMasa adalah wadah bagi seluruh masyarakat untuk mencari rekan dan bagian dalam kegiatan yang mereka inisiasi.
+                        <br/>
+                        <br/>
+                        Mulai dari acara kampus, kegiatan komunitas, kegiatan sosial, hingga kegiatan yang diinisiasi secara pribadi untuk mencapai suatu tujuan baik, semuanya membutuhkan dukungan orang-orang yang memiliki semangat yang sama dan juga tujuan yang sama.
+                        <br/>
+                        <br/>
+                        Di GalangMasa, kami membuka peluang untuk mencari dukungan orang-orang yang akan hadir dan bekerja bersama mewujudkan tujuan bersama.
+                        <br/>
+                        <br/>
+                        Mulailah dengan sebuah gagasan, dan tampilkan sehingga orang-orang dapat mengetahui semangatmu!
+                        </p>
+                        <br/>
 						<hr/>
 						<br/>
 						<p>Initiated By: Hafiz</p>
