@@ -7,7 +7,7 @@
 	$_SESSION["authorized"] = false;
 	
 	$email = $_POST['email'];
-	$password = $_POST['password'];
+	$password = md5($_POST['password']);
 	
 	$query = mysql_query("SELECT * FROM data_pengguna WHERE email='$email' AND password='$password'");
 	
